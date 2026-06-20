@@ -17,5 +17,9 @@ Exploratory Data Analysis on telecom customer data to identify patterns and chur
 - Insights on customer behavior
 - Visualizations of churn patterns
 
+## dataset
+- Telco Customer churn Dataset
+- Contains customer demographic and services detail
+
 ##  Author
 Sahil Pandey
