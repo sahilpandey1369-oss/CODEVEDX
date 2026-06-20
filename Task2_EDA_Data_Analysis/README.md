@@ -1,41 +1,21 @@
-Here’s a short & point-wise README.md you can use 👇
+#  Customer Churn Analysis (EDA)
 
+##  Description
+Exploratory Data Analysis on telecom customer data to identify patterns and churn behavior.
 
----
+##  Objectives
+- Analyze customer churn
+- Identify key factors affecting churn
+- Visualize trends and patterns
 
-📊 EDA Project
+##  Tools
+- Python
+- Pandas, NumPy
+- Matplotlib, Seaborn
 
-📌 Description
+##  Output
+- Insights on customer behavior
+- Visualizations of churn patterns
 
-Exploratory Data Analysis to understand dataset patterns and insights.
-
-🎯 Objectives
-
-Data cleaning
-
-Handle missing values
-
-Data visualization
-
-Find insights
-
-
-🛠️ Tools
-
-Python
-
-Pandas, NumPy
-
-Matplotlib, Seaborn
-
-
-▶️ How to Run
-
-Install libraries
-
-Run notebook/script
-
-
-📈 Output
-
-Graphs & insights
+##  Author
+Sahil Pandey
